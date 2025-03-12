@@ -22,12 +22,10 @@ Run the todo with following commands
    ```go
    ./main.go -add "Add post function
    "```
-   
 3. Edit a task
    ```go
    ./main.go -edit "<index">: "Test post function"
-   ```
-   
+   ```  
 5. Toggle a task
    ```go
    ./main.go -toggle <index>
@@ -36,11 +34,7 @@ Run the todo with following commands
    ```go
    ./main.go -del <index>
    ```
-8. 
-   ```go
-   ./main.go -del <index>
-   ```
-9. List all the tasks
+7. List all the tasks
    ```go
    ./main.go -list
    ```
