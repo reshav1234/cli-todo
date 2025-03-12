@@ -39,4 +39,5 @@ Run the todo with following commands
    ./main.go -list
    ```
 
-
+Example Output
+![image](https://github.com/user-attachments/assets/56c0d2dc-cdf2-4422-a672-d4f73c9198f3)
