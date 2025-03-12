@@ -12,7 +12,7 @@ git clone "https://github.com/reshav1234/cli-todo.git"
 # Build the application
 ```bash
 cd cli-todo
-go build -o main.go*
+go build -o main.go
 ```
 
 # Usuage
